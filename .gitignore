@@ -67,3 +67,9 @@
 8 KtSpark + PyTCP x/KotlinStockMarketSpark/target/
 7 PySpark + KtTCP x/StockMarketTCP/target/
 39 Microservicii-spring-kotlin/SQLiteExample_python/env/
+31 Teacher-Student Multicast+subgrup studenti L8 x/problema 2 clean runnable/TeacherMicroservice/target/
+32 Teacher-Student subgrup profesori L8 x/problema 2 broadcast multicast/.idea/
+32 Teacher-Student subgrup profesori L8 x/problema 2 broadcast multicast/BroadcastManager/target/
+32 Teacher-Student subgrup profesori L8 x/problema 2 broadcast multicast/MulticastManager/target/
+32 Teacher-Student subgrup profesori L8 x/problema 2 broadcast multicast/StudentMicroservice/.idea/
+6 okazii Reactive append errors L7 x/Okazii/.idea/
