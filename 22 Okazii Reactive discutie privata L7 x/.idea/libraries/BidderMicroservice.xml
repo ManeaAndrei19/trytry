@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BidderMicroservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/out/artifacts/BidderMicroservice_jar/BidderMicroservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

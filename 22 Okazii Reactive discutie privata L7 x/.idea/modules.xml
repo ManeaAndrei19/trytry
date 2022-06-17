@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/22 Okazii Reactive discutie privata L7 x.iml" filepath="$PROJECT_DIR$/.idea/22 Okazii Reactive discutie privata L7 x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/AuctioneerMicroservice/AuctioneerMicroservice.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/AuctioneerMicroservice/AuctioneerMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/AuctioneerMicroservice/AuctioneerMicroservice1.iml" filepath="$PROJECT_DIR$/Okazii/AuctioneerMicroservice/AuctioneerMicroservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/BidderMicroservice/BidderMicroservice.iml" filepath="$PROJECT_DIR$/Okazii/BidderMicroservice/BidderMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/BidderMicroservice/BidderMicroservice1.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/BidderMicroservice/BidderMicroservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/BiddingProcessorMicroservice/BiddingProcessorMicroservice.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/BiddingProcessorMicroservice/BiddingProcessorMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/BiddingProcessorMicroservice/BiddingProcessorMicroservice1.iml" filepath="$PROJECT_DIR$/Okazii/BiddingProcessorMicroservice/BiddingProcessorMicroservice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/ChatClient/ChatClient.iml" filepath="$PROJECT_DIR$/Okazii/ChatClient/ChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/ChatMaster/ChatMaster.iml" filepath="$PROJECT_DIR$/Okazii/ChatMaster/ChatMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/ChatMicroservice/ChatMicroservice.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/ChatMicroservice/ChatMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/MessageLibrary/MessageLibrary.iml" filepath="$PROJECT_DIR$/Okazii/MessageLibrary/MessageLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/MessageLibrary/MessageLibrary1.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/MessageLibrary/MessageLibrary1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/MessageProcessorMicroservice/MessageProcessorMicroservice.iml" filepath="$PROJECT_DIR$/rxkotlin-microservicii/rxkotlin-app/MessageProcessorMicroservice/MessageProcessorMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Okazii/MessageProcessorMicroservice/MessageProcessorMicroservice1.iml" filepath="$PROJECT_DIR$/Okazii/MessageProcessorMicroservice/MessageProcessorMicroservice1.iml" />
+    </modules>
+  </component>
+</project>

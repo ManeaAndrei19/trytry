@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChatClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Okazii/out/artifacts/ChatClient_jar/ChatClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
